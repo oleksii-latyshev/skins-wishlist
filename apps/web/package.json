@@ -12,6 +12,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@repo/tailwindcss": "*",
+    "@repo/ui": "*",
     "@base-ui/react": "^1.5.0",
     "@fontsource-variable/inter": "^5.2.8",
     "@fontsource-variable/noto-sans": "^5.2.10",
