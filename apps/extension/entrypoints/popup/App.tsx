@@ -2,7 +2,7 @@ import { Button } from '@repo/ui/button'
 
 function App() {
   return (
-    <div className='flex w-[360px] flex-col bg-background text-foreground'>
+    <div className='flex w-90 flex-col bg-background text-foreground'>
       {/* Header */}
       <header className='flex items-center gap-2 border-b border-border px-4 py-3'>
         <div className='flex h-7 w-7 items-center justify-center rounded-lg bg-primary'>
